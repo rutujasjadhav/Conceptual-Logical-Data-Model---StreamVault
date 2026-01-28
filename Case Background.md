@@ -1,6 +1,5 @@
 # Conceptual-Logical-Data-Model---StreamVault
 
-Case Background
 StreamVault is a startup company planning to launch a comprehensive digital media library platform that allows users to manage, organize, and stream their personal collections of movies, TV shows, music, documentaries, and podcasts. The company wants to differentiate itself by offering advanced features like collaborative playlists, detailed content metadata, social features, and sophisticated recommendation algorithms. StreamVault needs a database system to support the following core functionalities:
 
 Users can create accounts with profiles containing personal information, preferences, and subscription details; users can also watch as guests without having an account or profile, but streaming is limited to 2 hours per month
